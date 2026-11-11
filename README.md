@@ -22,3 +22,7 @@ Addis Ababa Road Traffic Accident Dataset
 3. **Weather and severity:** Among named weather conditions, windy conditions had the highest share of serious or fatal crashes (**16.3%**), compared with **16.0%** in normal conditions.
 4. **Junction types:** Crashes in the **Other** junction category had the highest share of serious or fatal injuries, at **19.1%** of 445 recorded crashes.
 5. **Crash frequency by hour:** The **5:00–5:59 p.m.** hour had the most recorded crashes, with **1,228**.
+
+##Model Results
+**On the held-out 20% of crashes, the model achieved 84.6% accuracy, compared with 84.6% for always predicting slight injury.
+**It correctly classified 2084 of 2084 slight-injury crashes and 0 of 380
