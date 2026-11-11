@@ -14,3 +14,11 @@ Addis Ababa Road Traffic Accident Dataset
 3. How does the driver's driving experience impact the count of serious or fatal accidents (where Accident_severity is 'Serious Injury' or 'Fatal injury')?
 4. What types of vehicles are most commonly involved in accidents?
 5. What is the distribution of accidents by driver's age band?
+
+### Week 2 SQL Results
+
+1. **Lighting conditions:** Darkness with no lighting had the highest share of serious or fatal crashes, at **28.1%** of 192 recorded crashes.
+2. **Weather data gap:** Fog or mist (10 crashes), raining and windy conditions (40), and snow (61) had the fewest recorded crashes, so they would provide the fewest examples for a model trained on this dataset.
+3. **Weather and severity:** Among named weather conditions, windy conditions had the highest share of serious or fatal crashes (**16.3%**), compared with **16.0%** in normal conditions.
+4. **Junction types:** Crashes in the **Other** junction category had the highest share of serious or fatal injuries, at **19.1%** of 445 recorded crashes.
+5. **Crash frequency by hour:** The **5:00–5:59 p.m.** hour had the most recorded crashes, with **1,228**.
