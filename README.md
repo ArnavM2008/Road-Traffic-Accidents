@@ -24,5 +24,5 @@ Addis Ababa Road Traffic Accident Dataset
 5. **Crash frequency by hour:** The **5:00–5:59 p.m.** hour had the most recorded crashes, with **1,228**.
 
 ## Model Results
-On the held-out 20% of crashes, the model achieved 84.6% accuracy, compared with 84.6% for always predicting slight injury.
-It correctly classified 2084 of 2084 slight-injury crashes and 0 of 380
+On the held-out 20% of crashes, the model achieved 53.0% accuracy, compared with 84.6% for always predicting slight injury.
+The model correctly identified 198 of 380 serious or fatal crashes (52.1%) but failed to identify the other 182.
