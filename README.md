@@ -26,3 +26,7 @@ Addis Ababa Road Traffic Accident Dataset
 ## Model Results
 On the held-out 20% of crashes, the model achieved 53.0% accuracy, compared with 84.6% for always predicting slight injury.
 The model correctly identified 198 of 380 serious or fatal crashes (52.1%) but failed to identify the other 182.
+
+
+## Tableau Dashboard
+![Road Traffic Accident Risk Analysis Dashboard](Road%20Traffic%20Accident%20Dataset%20of%20Addis%20Ababa%20City/tableau/tableau_dashboard.png)
