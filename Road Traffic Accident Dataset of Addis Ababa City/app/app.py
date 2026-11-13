@@ -116,3 +116,4 @@ st.caption(
     "severity if a crash occurs, not the probability of "
     "having an accident. It is not a calibrated safety "
     "or real-world driving risk measurement."
+)
